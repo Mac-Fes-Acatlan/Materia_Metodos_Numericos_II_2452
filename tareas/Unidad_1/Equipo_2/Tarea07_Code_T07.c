@@ -2,7 +2,6 @@
 //Método del punto fijo
 //Robles Yasumura Mauricio Azael
 
-
 #include <stdio.h>
 #include <math.h>
 
